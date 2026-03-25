@@ -1,0 +1,9 @@
+Package: com.icraze.appenumfix
+Name: AppEnumFix
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Jailbreak tweak to patch CVE-2025-31207, a bug that allows sandboxed applications to enumerate a user's installed apps
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
